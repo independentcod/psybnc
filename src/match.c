@@ -23,7 +23,6 @@
  * I hereby release this code into the public domain
  *
  * =================================================================== */
-#include <string.h>
 
 #ifdef HAVE_CONFIG_H
 #include <config.h>

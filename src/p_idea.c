@@ -60,8 +60,8 @@ extern char ctxt[50];
 extern char cfunc[60];
 extern int cline;
 
-#define pcontext { strmncpy(ctxt,__FILE__,sizeof(ctxt));strmncpy(cfunc,(char*)__FUNCTION__,sizeof(cfunc)); cline=__LINE__; }
-#define pmalloc(n) __pmalloc((n),__FILE__,(char*)__FUNCTION__,__LINE__)
+#define pcontext { strmncpy(ctxt,__FILE__,sizeof(ctxt));strmncpy(cfunc,__FUNCTION__,sizeof(cfunc)); cline=__LINE__; }
+#define pmalloc(n) __pmalloc((n),__FILE__,__FUNCTION__,__LINE__)
 
 #ifdef CRYPT
 

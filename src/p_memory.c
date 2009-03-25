@@ -67,7 +67,7 @@ void _pfree(unsigned long *pointer, char *module, char *function, int line)
     free(pointer);
 }
 
-#define free(a) _pfree((void *)a,__FILE__,(char*)__FUNCTION__,__LINE__)
+#define free(a) _pfree((void *)a,__FILE__,__FUNCTION__,__LINE__)
 
 /* struct wrappers. Those alloc, delete and return the needed structures */
 

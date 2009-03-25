@@ -34,9 +34,9 @@ static char rcsid[] = "@(#)$Id: p_blowfish.c,v 1.3 2005/06/04 18:00:14 hisi Exp 
 char *strmncpy(char *dest, char *source, size_t len);
 char *lngtxt(int msgnum);
 
-#define pcontext { strmncpy(ctxt,__FILE__,sizeof(ctxt));strmncpy(cfunc,(char*)__FUNCTION__,sizeof(cfunc)); cline=__LINE__; }
-#define pmalloc(n) __pmalloc((n),__FILE__,(char*)__FUNCTION__,__LINE__)
-#define free(n) _pfree(n,__FILE__,(char*)__FUNCTION__,__LINE__)
+#define pcontext { strmncpy(ctxt,__FILE__,sizeof(ctxt));strmncpy(cfunc,__FUNCTION__,sizeof(cfunc)); cline=__LINE__; }
+#define pmalloc(n) __pmalloc((n),__FILE__,__FUNCTION__,__LINE__)
+#define free(n) _pfree(n,__FILE__,__FUNCTION__,__LINE__)
 
 unsigned char *hashstring(unsigned char *str,int len);
 unsigned char *unhashstring(unsigned char *str);
