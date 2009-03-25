@@ -1,7 +1,0 @@
-AUTOREJOIN [0|1]
-----------------
-Disabilita od abilita il rientro automatico dei canali
-dopo un kick.
-Esempio:
-/AUTOREJOIN 1
-Vedi anche: AIDLE

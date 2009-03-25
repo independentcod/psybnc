@@ -1,7 +1,0 @@
-RELINK linknummer
------------------
-Ermoeglicht das Zuruecksetzen einer Link-Verbindung zu einem
-anderen Bouncer. Die Verbindung wird nach Zuruecksetzen erneut
-aufgebaut.
-Beispiel:
-/RELINK 2

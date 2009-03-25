@@ -1,7 +1,0 @@
-BKILL user
-----------
-Termina la connessione di un utente nel bouncer.
-Solo gli Amministratori possono usare questo comando.
-Esempio:
-/BKILL lamer
-Vedi anche: DELUSER

@@ -1,4 +1,0 @@
-ERASEPRIVATELOG [netzwerk']
----------------------------
-Loescht das Nutzer-Log sowie die darin gespeicherten privaten Nachrichten.
-Siehe: PLAYPRIVATELOG PLAIMAINLOG ERASEMAINLOG PLAYTRAFFICLOG ERASETRAFFICLOG

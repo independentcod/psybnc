@@ -1,6 +1,0 @@
-LISTDCC [netzwerk']
--------------------
-Listet die BOT-DCC-Verbindungen, welche derzeit hinzugefuegt sind.
-Beispiel:: 
-/LISTDCC 
-Siehe: ADDDCC DELDCC

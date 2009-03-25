@@ -1,3 +1,0 @@
-This option allows you to set which method of encryption 
-you want to use. You can choose Blowfish or IDEA which will 
-be used as blockcipher on talk and connection encryption.

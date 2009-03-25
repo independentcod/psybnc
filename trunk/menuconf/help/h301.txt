@@ -1,3 +1,0 @@
-Using the Listening Socket Dialog you can define, which 
-ports and hosts the bouncer should use for waiting for 
-connections.

@@ -1,6 +1,0 @@
-LISTALLOW
----------
-LISTALLOW shows all allowed Hosts to your bouncer
-by a numbered index.
-See also: ADDALLOW DELALLOW
-

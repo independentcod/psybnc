@@ -1,2 +1,0 @@
-This section allows the maintenance of the bouncer Users. Those 
-can be added, deleted or newly introduced using this dialog.

@@ -1,6 +1,0 @@
-AIDLE [0|1]
------------
-Disables or enables Anti-Idle
-Example 
-/AIDLE 1
-See also: AUTOREJOIN

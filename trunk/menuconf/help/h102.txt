@@ -1,3 +1,0 @@
-This Options allow changing general Options for psybnc. This 
-covers Linkage, Host-Properties and Names, special User-Settings 
-and other parameters needed for letting psyBNC run.

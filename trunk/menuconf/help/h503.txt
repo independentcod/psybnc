@@ -1,3 +1,0 @@
-This defines the port from/to which the link will be established. 
-If the link is an incoming Link, the first Port of the bouncer 
-has to be defined.

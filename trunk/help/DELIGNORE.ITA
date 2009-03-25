@@ -1,6 +1,0 @@
-DELIGNORE [network']number
----------------------------
-Cancella l'entry di un ignore dalla lista.
-Esempio:
-/DELIGNORE 2
-Vedi anche: ADDIGNORE LISTIGNORES

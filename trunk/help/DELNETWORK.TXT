@@ -1,3 +1,0 @@
-DELNETWORK name
----------------
-deletes a network. See ADDNETWORK for further informations.

@@ -1,6 +1,0 @@
-AIDLE [0|1]
------------
-Schaltet Anti-Idle ein oder aus.
-Beispiel:
-/AIDLE 1
-Siehe: AUTOREJOIN

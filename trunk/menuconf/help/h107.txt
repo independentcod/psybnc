@@ -1,2 +1,0 @@
-This choice will show the last Changes for your
-current psyBNC Version.

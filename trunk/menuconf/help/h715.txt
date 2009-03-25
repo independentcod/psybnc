@@ -1,2 +1,0 @@
-This resets the Offset of the last read Trafficlog-Line. When the user will
-trigger PLAYTRAFFICLOG LAST again now, all entries will be replayed.

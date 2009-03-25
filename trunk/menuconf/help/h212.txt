@@ -1,3 +1,0 @@
-This Option defines, if Scripting is allowed for the Admin. 
-Please see the section "Scripting" in Bouncerconfig from the 
-main menu.

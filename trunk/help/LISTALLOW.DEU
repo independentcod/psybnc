@@ -1,5 +1,0 @@
-LISTALLOW
----------
-LISTALLOW zeigt die Liste der Host-Allows, also der Hosts, welche
-zum Bouncer connecten duerfen.
-Siehe: ADDALLOW DELALLOW

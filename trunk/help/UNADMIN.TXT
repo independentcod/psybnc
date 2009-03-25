@@ -1,6 +1,0 @@
-UNADMIN user
-------------
-removes user with ADMIN rights in bouncer 
-Example: 
-UNADIM Lamer
-See also: MADMIN

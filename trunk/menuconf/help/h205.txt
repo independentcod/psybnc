@@ -1,3 +1,0 @@
-This option defines, if Users may activate Trafficlogging. 
-See the command TRAFFICLOG for more informations or read the 
-README.

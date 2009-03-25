@@ -1,6 +1,0 @@
-LISTDCC [network']
-------------------
-lista le connessioni verso i bot correntemente presenti.
-Esempio
-/LISTDCC 
-Vedi anche: ADDDCC DELDCC

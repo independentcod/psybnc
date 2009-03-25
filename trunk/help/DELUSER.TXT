@@ -1,5 +1,0 @@
-DELUSER login
--------------
-deletes a bouncer user. You must be Bouncer Admin in order to
-delete a user. Example: /deluser newbie 
-See also: ADDUSER

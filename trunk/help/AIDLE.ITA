@@ -1,6 +1,0 @@
-AIDLE [0|1]
------------
-Disabilita od abilita l'antiidle.
-Esempio:
-/AIDLE 1
-Vedi anche: AUTOREJOIN

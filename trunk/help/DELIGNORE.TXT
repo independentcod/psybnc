@@ -1,6 +1,0 @@
-DELIGNORE [network']number
----------------------------
-Deletes an Ignore-Entry from the Ignore-list
-Example:
-/DELIGNORE 2
-See also: ADDIGNORE LISTIGNORES

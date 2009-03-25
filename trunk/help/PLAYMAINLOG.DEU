@@ -1,6 +1,0 @@
-PLAYMAINLOG
------------
-gibt das Haupt-Log in einem Query aus.
-Zum Haupt-Log gehoeren eingehende und ausgehend Verbindungen,
-Verbindungstrennungen und andere Systemvorfaelle.
-Siehe: PLAYPRIVATELOG ERASEPRIVATELOG ERASEMAINLOG PLAYTRAFFICLOG ERASETRAFFICLOG

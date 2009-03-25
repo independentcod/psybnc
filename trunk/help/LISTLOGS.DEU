@@ -1,4 +1,0 @@
-LISTLOGS [netzwerk']
---------------------
-LISTLOGS zeigt alle Quell/Filter-Eintraege des Traffic-Logs.
-Siehe: ADDLOG DELLOG PLAYTRAFFICLOG ERASETRAFFICLOG
